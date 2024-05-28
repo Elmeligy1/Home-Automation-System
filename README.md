@@ -24,9 +24,3 @@ This project is a Home Automation System designed for the Electric & Electronic 
 - DHT11, MQ2, Flame, and PIR sensors
 - Blynk app
 - Arduino IDE
-
-### Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/YOUR_USERNAME/HomeAutomationSystem.git
