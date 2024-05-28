@@ -21,6 +21,6 @@ This project is a Home Automation System designed for the Electric & Electronic 
 ### Prerequisites
 
 - ESP8266 microcontroller
-- DHT11, MQ2, Flame, and PIR sensors
+- DHT11, MQ2 and Flame
 - Blynk app
 - Arduino IDE
